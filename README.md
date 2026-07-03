@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:2c1250,100:5b21b6&height=220&section=header&text=Keerti%20Vijay%20Ananth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mission%20Control%20for%20AI%20%26%20Healthcare%20Engineering%20%F0%9F%9A%80&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:2c1250,100:5b21b6&height=220&section=header&text=Keerti%20Vijay%20Ananth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mission%20Control%20for%20AI%20and%20Healthcare%20Engineering%20%F0%9F%9A%80&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Launching+ML+models+into+production+%F0%9F%9A%80;Navigating+healthcare+%2B+AI+%F0%9F%A9%BA;Exploring+new+ML+galaxies+%F0%9F%8C%8C;Houston%2C+we+have+a+working+model+%E2%9C%85" alt="Typing SVG" />
 
