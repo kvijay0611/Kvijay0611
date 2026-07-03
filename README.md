@@ -1,46 +1,65 @@
 <div align="center">
 
-# Hi 👋, I'm Keerti Vijay Ananth
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:2c1250,100:5b21b6&height=220&section=header&text=Keerti%20Vijay%20Ananth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mission%20Control%20for%20AI%20%26%20Healthcare%20Engineering%20%F0%9F%9A%80&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%"/>
 
-### AI/ML Engineer • Health Informatics • Building at the intersection of Machine Learning and Healthcare
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Launching+ML+models+into+production+%F0%9F%9A%80;Navigating+healthcare+%2B+AI+%F0%9F%A9%BA;Exploring+new+ML+galaxies+%F0%9F%8C%8C;Houston%2C+we+have+a+working+model+%E2%9C%85" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+ML+systems+for+healthcare;Fault-tolerant+distributed+systems;Always+learning%2C+always+shipping;Trust+the+process+%F0%9F%9A%80&font=Fira%20Code&center=true&width=550&height=50&duration=4000&pause=1000&color=36BCF7" alt="Typing SVG">
-
-<a href="https://www.linkedin.com/in/keerti-vijay-ananth-769940251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/keertivijayananth" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://huggingface.co/kvijay1911" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/keerti-vijay-ananth-769940251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
+<a href="https://www.kaggle.com/keertivijayananth" target="_blank"><img src="https://img.shields.io/badge/Kaggle-0a0e27?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/></a>
+<a href="https://huggingface.co/kvijay1911" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-0a0e27?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/></a>
 
 </div>
 
+<br/>
+
+<!--
+  Custom animated space banner — twinkling stars, an orbiting planet, and a rocket
+  arcing across the scene. This is a self-contained SVG (space-banner.svg) that
+  ships alongside this README — see the setup note at the bottom for how to add it.
+-->
+<p align="center">
+  <img src="./assets/space-banner.svg" width="100%" alt="animated space banner"/>
+</p>
+
 ---
 
-### 🚀 About Me
+### 🛰️ Mission Log
 
-- 🎓 Final-year **B.Tech, Computer Science (Health Informatics specialisation)** @ VIT Bhopal, graduating **2026**
-- 🩺 Passionate about building **AI/ML systems for healthcare** — from diagnostics to clinical decision support
-- 🏗️ Experienced across **ML deployment, full-stack development, and data engineering**
-- 💼 Interned at **Motorola Solutions** (fault-tolerant distributed systems) and **BVK Exports** (data pipelines)
-- 🔭 Currently building **ECG Arrhythmia Classification** — a 1D CNN with Grad-CAM explainability, containerized and deployed on Hugging Face Spaces
-- 🌱 Actively exploring platform engineering and applying to AI/ML & apprenticeship roles
-- ⚡ Fun fact: I like vocabulary puzzles and language exercises as much as debugging production code
+```txt
+> whoami
+Final-year B.Tech, Computer Science (Health Informatics) @ VIT Bhopal — graduating 2026
+
+> current_orbit
+Building AI/ML systems for healthcare — diagnostics, deployment, and everything between
+
+> flight_history
+Motorola Solutions   → fault-tolerant distributed systems
+BVK Exports          → data pipelines
+
+> payload_in_progress
+ECG Arrhythmia Classifier — 1D CNN + Grad-CAM explainability, Dockerized on HF Spaces
+
+> status
+Actively applying to AI/ML & platform engineering roles — open to launch 🚀
+```
 
 ---
 
-### 🧠 Featured Project
+### 🚀 Featured Mission
 
 <div align="center">
 
 <a href="https://github.com/kvijay0611/ecg-arrhythmia-classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kvijay0611&repo=ecg-arrhythmia-classifier&theme=transparent&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kvijay0611&repo=ecg-arrhythmia-classifier&theme=tokyonight&hide_border=true" />
 </a>
 
-**ECG Arrhythmia Classifier** — 1D CNN for automated arrhythmia detection with Grad-CAM explainability, Dockerized and deployed on [Hugging Face Spaces](https://huggingface.co/spaces/kvijay1911/ecg-arrhythmia-classifier).
+**ECG Arrhythmia Classifier** — a 1D CNN for automated arrhythmia detection with Grad-CAM explainability, containerized and deployed on [Hugging Face Spaces 🤗](https://huggingface.co/spaces/kvijay1911/ecg-arrhythmia-classifier).
 
 </div>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧑‍🚀 Languages & Tools
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -60,21 +79,33 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📡 Signal from Base — GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kvijay0611&show_icons=true&theme=transparent&hide_border=false&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvijay0611&layout=compact&theme=transparent&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kvijay0611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvijay0611&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvijay0611&theme=transparent&hide_border=false" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvijay0611&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
+
+<div align="center">
+
+<!--
+  Live contribution snake — the snake "eats" your commit squares and flies across
+  your graph. Requires a one-time GitHub Actions setup (see below).
+-->
+<img src="https://raw.githubusercontent.com/Kvijay0611/Kvijay0611/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-📫 **Let's connect** — always open to conversations on healthcare AI, platform engineering, and ML systems in production.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:2c1250,100:0a0e27&height=120&section=footer" width="100%"/>
+
+📡 **Transmission open** — always up for a conversation on healthcare AI, platform engineering, and ML systems in production.
 
 </div>
